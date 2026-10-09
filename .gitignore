@@ -1,0 +1,6 @@
+venv/
+data/paysim.csv
+*.csv
+*.db
+__pycache__/
+.ipynb_checkpoints/
